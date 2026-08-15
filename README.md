@@ -1,122 +1,88 @@
-<div align="center">
+👋 Hi, I'm Ahmed Waleed
 
-👋 AHMED WALEED
+🚀 Backend Developer
 
-Backend Developer
+Spring Boot • Node.js • TypeScript
 
-Spring Boot × Node.js × TypeScript
+I build secure, scalable backend systems, event-driven architectures, real-time applications, and AI-powered services.
 
-I design and build secure, scalable backend systems,
-real-time applications, and event-driven architectures.
-
-<br>
-
-<a href="https://www.linkedin.com/in/ahmed-walid-amin-014b52282/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/amf5">
-<img src="https://img.shields.io/badge/GitHub-amf5-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="mailto:ahmedwalidamin648@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://drive.google.com/file/d/1jpzz4O1KvYxWvbYg_wguiC0W5nszVE92/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-View%20CV-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=amf5&style=for-the-badge&label=PROFILE+VIEWS">
-
-</div>
+LinkedIn • GitHub • CV
 
 👨‍💻 About Me
 
-I'm Ahmed Waleed, a Backend Developer from Alexandria, Egypt.
+I'm a Backend Developer and Computer Science & Statistics graduate from Alexandria University.
 
-I specialize in building backend systems with:
+I specialize in Spring Boot, Node.js, Express.js, TypeScript, SQL/NoSQL databases, authentication, distributed systems, real-time applications, payments, AI integrations, and Docker.
 
-Java Spring Boot Node.js Express.js TypeScript
+📍 Alexandria, Egypt
+🎓 B.Sc. Computer Science & Statistics — Alexandria University
+🟢 Open to Work
 
-My focus is on backend architecture, secure APIs, asynchronous processing,
-real-time systems, databases, integrations, and clean maintainable code.
+📄 Resume
 
-🏗️ How I Build Backend Systems
+Ahmed Waleed Amin Amin Khamis
+Backend Developer | Spring Boot | Node.js | TypeScript
 
-                         ┌─────────────────────────┐
-                         │        CLIENTS          │
-                         │   Web / Mobile / API    │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │       REST APIs         │
-                         │ Spring Boot / Express   │
-                         └────────────┬────────────┘
-                                      │
-              ┌───────────────────────┼───────────────────────┐
-              │                       │                       │
-              ▼                       ▼                       ▼
-        🔐 SECURITY               ⚡ APIs                  🗄️ DATA
-        JWT / OAuth2             REST                     MySQL
-        Spring Security          WebSocket                PostgreSQL
-        Keycloak                 Socket.IO                MongoDB
-        RBAC                                              Redis
-              │                       │                       │
-              └───────────────────────┼───────────────────────┘
-                                      │
-                                      ▼
-                         📨 ASYNCHRONOUS SYSTEMS
-                                      │
-                              Kafka / BullMQ
-                                      │
-                                      ▼
-                                   WORKERS
-                                      │
-                         ┌────────────┼────────────┐
-                         ▼            ▼            ▼
-                      💳 PAYMENTS   ☁️ STORAGE    🤖 AI
-                      Stripe        Cloudinary    Gemini
-                      PayPal        Supabase      OpenAI
-                                   Nodemailer
+🎯 CGPA: 3.25 / 4
 
-🧰 Technology Stack
+📄 View My CV
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,typescript,mongodb,postgres,mysql,redis,docker,kafka,git,github,postman">
-
-</div>
-
-Languages
-
-Java JavaScript TypeScript SQL
+🧰 Tech Stack
 
 Backend
 
-Spring Boot Spring MVC Node.js Express.js
-
-Security
-
-Spring Security JWT Keycloak OAuth2 RBAC OTP
+Java Spring Boot Node.js Express.js TypeScript
 
 Databases
 
 MySQL PostgreSQL MongoDB Redis
 
-Architecture
+Security & Architecture
 
-REST APIs WebSocket Socket.IO Kafka BullMQ Workers
-JPA Hibernate MapStruct SOLID Design Patterns
+JWT Spring Security OAuth2 Keycloak RBAC REST APIs WebSocket Socket.IO SOLID Design Patterns Clean Architecture
 
-Integrations
+Distributed Systems
 
-Stripe PayPal Cloudinary Supabase Nodemailer
-FastAPI Google Gemini OpenAI
+Kafka BullMQ Workers Event-Driven Architecture
+
+Cloud & Integrations
+
+Stripe PayPal Cloudinary Supabase Nodemailer FastAPI Google Gemini OpenAI
 
 Tools
 
-Git GitHub Docker Postman Maven
+Docker Git GitHub Postman Maven
+
+🏗️ How I Build Backend Systems
+
+                         BACKEND SYSTEM
+                                │
+            ┌───────────────────┼───────────────────┐
+            │                   │                   │
+            ▼                   ▼                   ▼
+       🔐 SECURITY         ⚡ REST APIs         🗄️ DATA
+       JWT / OAuth2        Spring Boot          MySQL
+       Keycloak            Node.js              PostgreSQL
+       RBAC                Express              MongoDB
+                                                Redis
+            │                   │                   │
+            └───────────────────┼───────────────────┘
+                                │
+                                ▼
+                    📨 ASYNCHRONOUS SYSTEMS
+                                │
+                         Kafka / BullMQ
+                                │
+                                ▼
+                             WORKERS
+                                │
+                                ▼
+                       EXTERNAL SERVICES
+                                │
+              ┌─────────────────┼─────────────────┐
+              ▼                 ▼                 ▼
+           Stripe           Cloudinary             AI
+           PayPal           Nodemailer        Gemini/OpenAI
 
 🚀 Featured Projects
 
@@ -124,14 +90,9 @@ Git GitHub Docker Postman Maven
 
 Event-Driven Backend Platform
 
-A scalable backend platform for projects, events, webhooks, API access,
-background processing, real-time notifications, reporting and AI-powered event simulation.
+Backend platform for projects, events, webhooks, API access, background processing, real-time notifications, reporting, and AI-powered event simulation.
 
-Stack
-
-Node.js TypeScript Express.js MongoDB
-Redis BullMQ Keycloak Stripe
-Socket.IO Cloudinary Nodemailer Google Gemini Docker
+Stack: Node.js TypeScript Express.js MongoDB Redis BullMQ Keycloak Stripe Socket.IO Cloudinary Nodemailer Google Gemini Docker
 
 Highlights
 
@@ -143,11 +104,7 @@ Highlights
 
 📨 Webhook processing
 
-⚙️ BullMQ background jobs
-
-👷 Worker-based processing
-
-🔴 Redis queues
+⚙️ BullMQ jobs and workers
 
 📡 Socket.IO real-time notifications
 
@@ -155,35 +112,23 @@ Highlights
 
 🤖 Gemini AI integration
 
-📧 Email notifications
-
-☁️ Cloudinary file management
+☁️ Cloudinary
 
 🐳 Docker
 
-<div align="center">
-<a href="https://github.com/amf5/eventflow">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
+🔗 View Repository
 
 🤖 Story AI
 
 AI-Powered Animated Story Platform
 
-An AI-powered platform that transforms user-written stories into animated cartoon videos.
+AI-powered platform that transforms user-written stories into animated cartoon videos.
 
-Stack
-
-Java Spring Boot Spring Security JWT
-MySQL JPA Hibernate WebFlux FastAPI
-WebSocket Kafka Cloudinary Scheduler AOP
+Stack: Java Spring Boot Spring Security JWT MySQL JPA Hibernate WebFlux FastAPI WebSocket Kafka Cloudinary Scheduler AOP
 
 Highlights
 
 🔐 Spring Security + JWT
-
-🗄️ MySQL + JPA + Hibernate
 
 ⚡ WebFlux reactive communication
 
@@ -191,31 +136,23 @@ Highlights
 
 🔴 WebSocket real-time updates
 
-📨 Kafka asynchronous processing
+📨 Kafka asynchronous notifications
 
 ☁️ Cloudinary media storage
 
-⏰ Scheduled tasks
+⏰ Scheduled code expiration
 
-📝 Spring AOP logging and monitoring
+📝 AOP logging and monitoring
 
-<div align="center">
-<a href="https://github.com/amf5/storyaiAPP">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
+🔗 View Repository
 
 📚 Learning Platform
 
 Online Learning & Payment Platform
 
-A backend platform connecting students, instructors and administrators with
-course management, payments, communication, file storage, background jobs and AI.
+Backend platform connecting students, instructors, and administrators with course management, payments, communication, file storage, background processing, and AI capabilities.
 
-Stack
-
-Node.js Express.js PostgreSQL Redis BullMQ
-Stripe PayPal Cloudinary Supabase OpenAI
+Stack: Node.js Express.js PostgreSQL Redis BullMQ Stripe PayPal Cloudinary Supabase OpenAI
 
 Highlights
 
@@ -237,27 +174,15 @@ Highlights
 
 ⚙️ BullMQ background jobs
 
-🔴 Redis
-
-☁️ Cloudinary
-
-<div align="center">
-<a href="https://github.com/amf5/platform_learning">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
+🔗 View Repository
 
 🎫 Ticket Platform
 
 Event Ticketing & QR Validation System
 
-A backend system for event management, ticket booking, role-based access,
-and QR ticket validation.
+Backend system for event management, ticket booking, role-based access, and QR ticket validation.
 
-Stack
-
-Java Spring Boot PostgreSQL JPA
-Keycloak MapStruct Google ZXing Bean Validation
+Stack: Java Spring Boot PostgreSQL JPA Keycloak MapStruct Google ZXing Bean Validation
 
 Highlights
 
@@ -277,15 +202,9 @@ Highlights
 
 🔄 MapStruct DTO mapping
 
-✅ Bean Validation
+🏗️ Modular architecture
 
-🏗️ Modular backend architecture
-
-<div align="center">
-<a href="https://github.com/amf5/TicketAPP">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
+🔗 View Repository
 
 🧠 Engineering Highlights
 
@@ -299,7 +218,7 @@ JWT • Spring Security • Keycloak • OAuth2 • RBAC • OTP
 
 ⚡ Performance
 
-Redis • Caching • Pagination • Database Indexing • Async Processing
+Redis • Caching • Pagination • Indexing • Async Processing
 
 📨 Distributed Systems
 
@@ -329,79 +248,6 @@ MySQL • PostgreSQL • MongoDB
 
 Docker • Git • GitHub
 
-🏗️ Architecture
-
-REST • Layered • Event-Driven
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amf5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amf5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amf5&theme=tokyonight&hide_border=true" width="60%">
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amf5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6">
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amf5&theme=tokyo-night&hide_border=true&area=true" width="95%">
-
-</div>
-
-🐍 Contribution Snake
-
-The snake image requires a GitHub Action to generate output/github-contribution-grid-snake.svg.
-The official snk project provides this workflow. Until it is generated, this section is intentionally not linked to a broken image.
-
-📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/amf5/eventflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=eventflow&theme=tokyonight&hide_border=true" width="49%">
-</a>
-
-<a href="https://github.com/amf5/storyaiAPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=storyaiAPP&theme=tokyonight&hide_border=true" width="49%">
-</a>
-
-<br>
-
-<a href="https://github.com/amf5/platform_learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=platform_learning&theme=tokyonight&hide_border=true" width="49%">
-</a>
-
-<a href="https://github.com/amf5/TicketAPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=TicketAPP&theme=tokyonight&hide_border=true" width="49%">
-</a>
-
-</div>
-
-⭐ GitHub Overview
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/amf5?style=for-the-badge&label=TOTAL%20STARS&color=yellow">
-<img src="https://img.shields.io/github/repos/amf5?style=for-the-badge&label=REPOSITORIES&color=blue">
-<img src="https://komarev.com/ghpvc/?username=amf5&style=for-the-badge&label=PROFILE+VIEWS">
-
-</div>
-
 🎓 Education
 
 Alexandria University
@@ -418,13 +264,13 @@ B.Sc. Computer Science & Statistics
 
 Chad Darby — Udemy
 
-<a href="https://drive.google.com/file/d/1BszNqssg2et3GTB8NhbGds7cU7TvuMPY/view?usp=sharing">📜 View Certificate</a>
+📜 View Certificate
 
 ☕ Java Programming: Solving Problems with Software
 
 Duke University — Coursera
 
-<a href="https://drive.google.com/file/d/1RWY0PWFa5y-FOmZPvvBx6vnL6jqgZwQ3/view?usp=sharing">📜 View Certificate</a>
+📜 View Certificate
 
 🌐 Frontend Web Development Training
 
@@ -432,25 +278,44 @@ Information Technology Institute — ITI
 
 1-Month Training Program
 
-<a href="https://drive.google.com/file/d/1uC0JFvtRBryCWzdtJVBcAzRwnnhNMCPh/view?usp=sharing">📜 View Certificate</a>
-
-📄 Resume
-
-<div align="center">
-
-<a href="https://drive.google.com/file/d/1jpzz4O1KvYxWvbYg_wguiC0W5nszVE92/view?usp=sharing">
-<img src="https://img.shields.io/badge/VIEW%20MY%20CV-Download%20Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white">
-</a>
-
-</div>
+📜 View Certificate
 
 🌍 Languages
 
+🇪🇬 Arabic — Native
+🇬🇧 English — Good Reading & Writing
+
+📊 GitHub Analytics
+
 <div align="center">
 
-🇪🇬 Arabic — Native
+<img src="https://github-readme-stats.vercel.app/api?username=amf5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
 
-🇬🇧 English — Good Reading & Writing
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amf5&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amf5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8">
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amf5&theme=tokyo-night&hide_border=true" width="95%">
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amf5/amf5/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
@@ -458,23 +323,26 @@ Information Technology Institute — ITI
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-walid-amin-014b52282/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+LinkedIn •
+GitHub •
+Email •
+CV
 
-<a href="mailto:ahmedwalidamin648@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</div>
 
-<a href="https://github.com/amf5">
-<img src="https://img.shields.io/badge/GitHub-amf5-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+🌐 Portfolio
+
+<div align="center">
+
+🚀 Visit My Portfolio
+
+Add your portfolio URL here
 
 </div>
 
 <div align="center">
 
-🚀 Building Systems. Solving Problems. Learning Every Day.
+💻 Building systems. Solving problems. Learning every day.
 
 ⭐ Thanks for visiting my profile!
 
