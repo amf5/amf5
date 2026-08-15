@@ -1,349 +1,138 @@
-👋 Hi, I'm Ahmed Waleed
+🚀 Ahmed Waleed Amin Amin Khamis
+💻 Backend Developer | Spring Boot • Node.js
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%7C+Node.js+Expert;Clean+Code+Enthusiast;Problem+Solver;API+Architect" alt="Typing Animation" /> </p>
+<div align="center">
+https://img.shields.io/github/followers/amf5?style=for-the-badge&logo=github&color=181717
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
 
-🚀 Backend Developer
+</div>
+🎯 About Me
+javascript
+const ahmed = {
+  title: "Backend Developer",
+  location: "📍 Alexandria, Egypt",
+  education: "🎓 Computer Science & Statistics, Alexandria University",
+  cgpa: "3.25/4",
+  passions: ["Clean Code", "Problem Solving", "System Design"],
+  quote: "Building scalable, efficient, and elegant backend solutions 🚀"
+};
+🛡️ Tech Arsenal
+🚀 Core Technologies
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+📨 Message Queue & Caching
+<p align="center"> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/BullMQ-FF6C37?style=for-the-badge&logo=bullmq&logoColor=white" /> </p>
+🔐 Security & Auth
+<p align="center"> <img src="https://img.shields.io/badge/Keycloak-0078D4?style=for-the-badge&logo=keycloak&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth2-3A8F8A?style=for-the-badge&logo=oauth&logoColor=white" /> </p>
+☁️ Cloud & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+🏆 Featured Projects
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=eventflow&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=storyaiAPP&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=TicketAPP&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=platform_learning&theme=tokyonight" /> </p>
+📦 EventFlow
+Event-Driven Backend Platform for Managing Projects, Events & Webhooks
 
-Spring Boot • Node.js • TypeScript
+text
+🚀 Node.js • Express • TypeScript • MongoDB • Redis • BullMQ • Keycloak • Stripe • Socket.IO
+✨ Features:
 
-I build secure, scalable backend systems, event-driven architectures, real-time applications, and AI-powered services.
+🔐 Keycloak authentication with JWT
 
-LinkedIn • GitHub • CV
+💳 Stripe payment integration
 
-👨‍💻 About Me
+📨 Async webhook processing with Redis + BullMQ
 
-I'm a Backend Developer and Computer Science & Statistics graduate from Alexandria University.
+📡 Real-time updates with Socket.IO
 
-I specialize in Spring Boot, Node.js, Express.js, TypeScript, SQL/NoSQL databases, authentication, distributed systems, real-time applications, payments, AI integrations, and Docker.
+🤖 AI-powered event simulation with Google Gemini
 
-📍 Alexandria, Egypt
-🎓 B.Sc. Computer Science & Statistics — Alexandria University
-🟢 Open to Work
+📊 Report generation (PDF/CSV)
 
-📄 Resume
+https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white
 
-Ahmed Waleed Amin Amin Khamis
-Backend Developer | Spring Boot | Node.js | TypeScript
+🎥 Story AI
+AI-Powered Platform Transforming Text into Animated Videos
 
-🎯 CGPA: 3.25 / 4
+text
+🎬 Java • Spring Boot • Spring Security • JWT • MySQL • WebFlux • FastAPI • Kafka • WebSocket
+✨ Features:
 
-📄 View My CV
+🧠 AI model integration with FastAPI
 
-🧰 Tech Stack
+📊 Real-time progress updates via WebSocket
 
-Backend
+📨 Async notifications with Kafka
 
-Java Spring Boot Node.js Express.js TypeScript
-
-Databases
-
-MySQL PostgreSQL MongoDB Redis
-
-Security & Architecture
-
-JWT Spring Security OAuth2 Keycloak RBAC REST APIs WebSocket Socket.IO SOLID Design Patterns Clean Architecture
-
-Distributed Systems
-
-Kafka BullMQ Workers Event-Driven Architecture
-
-Cloud & Integrations
-
-Stripe PayPal Cloudinary Supabase Nodemailer FastAPI Google Gemini OpenAI
-
-Tools
-
-Docker Git GitHub Postman Maven
-
-🏗️ How I Build Backend Systems
-
-                         BACKEND SYSTEM
-                                │
-            ┌───────────────────┼───────────────────┐
-            │                   │                   │
-            ▼                   ▼                   ▼
-       🔐 SECURITY         ⚡ REST APIs         🗄️ DATA
-       JWT / OAuth2        Spring Boot          MySQL
-       Keycloak            Node.js              PostgreSQL
-       RBAC                Express              MongoDB
-                                                Redis
-            │                   │                   │
-            └───────────────────┼───────────────────┘
-                                │
-                                ▼
-                    📨 ASYNCHRONOUS SYSTEMS
-                                │
-                         Kafka / BullMQ
-                                │
-                                ▼
-                             WORKERS
-                                │
-                                ▼
-                       EXTERNAL SERVICES
-                                │
-              ┌─────────────────┼─────────────────┐
-              ▼                 ▼                 ▼
-           Stripe           Cloudinary             AI
-           PayPal           Nodemailer        Gemini/OpenAI
-
-🚀 Featured Projects
-
-⚡ EventFlow
-
-Event-Driven Backend Platform
-
-Backend platform for projects, events, webhooks, API access, background processing, real-time notifications, reporting, and AI-powered event simulation.
-
-Stack: Node.js TypeScript Express.js MongoDB Redis BullMQ Keycloak Stripe Socket.IO Cloudinary Nodemailer Google Gemini Docker
-
-Highlights
-
-🔐 Keycloak authentication
-
-🔑 API key management
-
-💳 Stripe integration
-
-📨 Webhook processing
-
-⚙️ BullMQ jobs and workers
-
-📡 Socket.IO real-time notifications
-
-📊 PDF / CSV reporting
-
-🤖 Gemini AI integration
-
-☁️ Cloudinary
-
-🐳 Docker
-
-🔗 View Repository
-
-🤖 Story AI
-
-AI-Powered Animated Story Platform
-
-AI-powered platform that transforms user-written stories into animated cartoon videos.
-
-Stack: Java Spring Boot Spring Security JWT MySQL JPA Hibernate WebFlux FastAPI WebSocket Kafka Cloudinary Scheduler AOP
-
-Highlights
-
-🔐 Spring Security + JWT
-
-⚡ WebFlux reactive communication
-
-🤖 FastAPI AI integration
-
-🔴 WebSocket real-time updates
-
-📨 Kafka asynchronous notifications
+🔍 AOP for logging and monitoring
 
 ☁️ Cloudinary media storage
 
-⏰ Scheduled code expiration
+https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white
 
-📝 AOP logging and monitoring
+🎫 Ticket-Platform
+Digital Event Ticket Management with QR Code Validation
 
-🔗 View Repository
+text
+🎟️ Java • Spring Boot • JPA • PostgreSQL • Keycloak • Google ZXing • MapStruct
+✨ Features:
+
+👥 Role-based access (Organizer, Attendee, Staff)
+
+📱 QR code generation & validation
+
+🔐 OAuth2 with Keycloak
+
+🏗️ Modular architecture with DTO-Entity mapping
+
+https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white
 
 📚 Learning Platform
+Complete Educational Platform with Payment Integration
 
-Online Learning & Payment Platform
+text
+📖 Node.js • Express • PostgreSQL • Stripe • PayPal • Redis • BullMQ • OpenAI
+✨ Features:
 
-Backend platform connecting students, instructors, and administrators with course management, payments, communication, file storage, background processing, and AI capabilities.
+👨‍🏫 Student, Instructor & Admin roles
 
-Stack: Node.js Express.js PostgreSQL Redis BullMQ Stripe PayPal Cloudinary Supabase OpenAI
+💳 Stripe & PayPal payment processing
 
-Highlights
+💬 Real-time course chat
 
-👤 Student / Instructor / Admin roles
+🤖 AI video description generation
 
-📚 Course management
+📁 Cloudinary & Supabase storage
 
-📖 Sections and lessons
-
-📎 PDF and video attachments
-
-💳 Stripe payments
-
-💰 PayPal instructor payouts
-
-💬 Course-related chat
-
-🤖 OpenAI integration
-
-⚙️ BullMQ background jobs
-
-🔗 View Repository
-
-🎫 Ticket Platform
-
-Event Ticketing & QR Validation System
-
-Backend system for event management, ticket booking, role-based access, and QR ticket validation.
-
-Stack: Java Spring Boot PostgreSQL JPA Keycloak MapStruct Google ZXing Bean Validation
-
-Highlights
-
-👥 Multiple user roles
-
-🔐 Keycloak authentication
-
-🛡️ OAuth2 / RBAC
-
-🎫 Event management
-
-🎟️ Ticket booking
-
-📱 QR code generation
-
-🔍 QR validation
-
-🔄 MapStruct DTO mapping
-
-🏗️ Modular architecture
-
-🔗 View Repository
-
-🧠 Engineering Highlights
-
-Area
-
-Technologies
-
-🔐 Security
-
-JWT • Spring Security • Keycloak • OAuth2 • RBAC • OTP
-
-⚡ Performance
-
-Redis • Caching • Pagination • Indexing • Async Processing
-
-📨 Distributed Systems
-
-Kafka • BullMQ • Redis • Workers
-
-🔴 Real-Time
-
-WebSocket • Socket.IO
-
-💳 Payments
-
-Stripe • PayPal
-
-🤖 AI
-
-FastAPI • Gemini • OpenAI
-
-☁️ Cloud
-
-Cloudinary • Supabase
-
-🗄️ Databases
-
-MySQL • PostgreSQL • MongoDB
-
-🐳 DevOps
-
-Docker • Git • GitHub
-
-🎓 Education
-
-Alexandria University
-
-B.Sc. Computer Science & Statistics
-
-📍 Alexandria, Egypt
-📅 2021 — 2025
-🎯 CGPA: 3.25 / 4
-
-📜 Certifications
-
-🎓 Spring Boot 3, Spring 6 & Hibernate for Beginners
-
-Chad Darby — Udemy
-
-📜 View Certificate
-
-☕ Java Programming: Solving Problems with Software
-
-Duke University — Coursera
-
-📜 View Certificate
-
-🌐 Frontend Web Development Training
-
-Information Technology Institute — ITI
-
-1-Month Training Program
-
-📜 View Certificate
-
-🌍 Languages
-
-🇪🇬 Arabic — Native
-🇬🇧 English — Good Reading & Writing
+https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white
 
 📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amf5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amf5&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amf5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" /> </p>
+📜 Certifications
+<table align="center"> <tr> <td align="center"> <a href="https://drive.google.com/file/d/1BszNqssg2et3GTB8NhbGds7cU7TvuMPY/view?usp=sharing"> <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <br />Chad Darby (Udemy) </a> </td> <td align="center"> <a href="https://drive.google.com/file/d/1BszNqssg2et3GTB8NhbGds7cU7TvuMPY/view?usp=sharing"> <img src="https://img.shields.io/badge/Java_Programming-007396?style=for-the-badge&logo=java&logoColor=white" /> <br />Duke University (Coursera) </a> </td> <td align="center"> <a href="#"> <img src="https://img.shields.io/badge/Frontend_Development-61DAFB?style=for-the-badge&logo=javascript&logoColor=black" /> <br />Information Technology Institute </a> </td> </tr> </table>
+🎓 Education
+<p align="center"> <img src="https://img.shields.io/badge/Alexandria_University-800000?style=for-the-badge&logo=graduation-cap&logoColor=white" /> </p>
+🎓 Bachelor of Computer Science and Statistics
 
+📅 Oct 2021 – Jun 2025
+
+📍 Alexandria, Egypt
+
+🏆 CGPA: 3.25/4
+
+📫 Let's Connect!
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amf5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amf5&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
+https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 </div>
-
-🏆 GitHub Trophies
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amf5&color=00D4FF&style=for-the-badge" alt="Profile Views" /> </p>
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amf5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8">
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amf5&theme=tokyo-night&hide_border=true" width="95%">
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amf5/amf5/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
-🤝 Let's Connect
-
-<div align="center">
-
-LinkedIn •
-GitHub •
-Email •
-CV
-
-</div>
-
-🌐 Portfolio
-
-<div align="center">
-
-🚀 Visit My Portfolio
-
-Add your portfolio URL here
-
-</div>
-
-<div align="center">
-
-💻 Building systems. Solving problems. Learning every day.
-
-⭐ Thanks for visiting my profile!
-
+⚡ "Building the future, one API at a time" ⚡
 </div>
