@@ -1,481 +1,138 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561ee473-703e-42ae-86a7-010e7c2b56e8.gif" width="100px" alt="Hi">
+  
+  <h1>👋 AHMED WALEED</h1>
+  <h3>Backend Developer | Spring Boot & Node.js</h3>
 
-👋 AHMED WALEED
+  <p>
+    I design and build secure, scalable backend systems, real-time applications, and event-driven architectures.
+  </p>
 
-Backend Developer
+  <p>
+    <a href="https://www.linkedin.com/in/ahmed-walid-amin-014b52282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/amf5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:ahmedwalidamin648@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://drive.google.com/file/d/1jpzz4O1KvYxWvbYg_wguiC0W5nszVE92/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  </p>
 
-Spring Boot × Node.js × TypeScript
+  <br />
+</div>
 
-I design and build secure, scalable backend systems,
-real-time applications, and event-driven architectures.
+---
+
+### 👨‍💻 About Me
+
+I'm Ahmed Waleed, a Backend Developer based in Alexandria, Egypt.
+
+```json
+{
+  "name": "Ahmed Waleed",
+  "location": "Alexandria, Egypt",
+  "degree": "B.Sc. Computer Science & Statistics (CGPA: 3.25)",
+  "education_period": "2021 — 2025",
+  "university": "Alexandria University",
+  "focus": ["Backend Architecture", "Secure APIs", "Asynchronous Systems", "Real-Time Processing", "Clean Code"],
+  "tech_stack": ["Java", "Spring Boot", "Node.js", "Express.js", "TypeScript"]
+}
+```
+
+---
+
+### 🧰 Technology Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,typescript,postgres,mongodb,mysql,redis,kafka,docker,git,github,postman" />
+</div>
 
 <br>
 
-<a href="https://www.linkedin.com/in/ahmed-walid-amin-014b52282/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/amf5">
-<img src="https://img.shields.io/badge/GitHub-amf5-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="mailto:ahmedwalidamin648@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://drive.google.com/file/d/1jpzz4O1KvYxWvbYg_wguiC0W5nszVE92/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-View%20CV-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=amf5&style=for-the-badge&label=PROFILE+VIEWS">
-
-</div>
-
-👨‍💻 About Me
-
-I'm Ahmed Waleed, a Backend Developer from Alexandria, Egypt.
-
-I specialize in building backend systems with:
-
-Java Spring Boot Node.js Express.js TypeScript
-
-My focus is on backend architecture, secure APIs, asynchronous processing,
-real-time systems, databases, integrations, and clean maintainable code.
-
-🏗️ How I Build Backend Systems
-
-                         ┌─────────────────────────┐
-                         │        CLIENTS          │
-                         │   Web / Mobile / API    │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │       REST APIs         │
-                         │ Spring Boot / Express   │
-                         └────────────┬────────────┘
-                                      │
-              ┌───────────────────────┼───────────────────────┐
-              │                       │                       │
-              ▼                       ▼                       ▼
-        🔐 SECURITY               ⚡ APIs                  🗄️ DATA
-        JWT / OAuth2             REST                     MySQL
-        Spring Security          WebSocket                PostgreSQL
-        Keycloak                 Socket.IO                MongoDB
-        RBAC                                              Redis
-              │                       │                       │
-              └───────────────────────┼───────────────────────┘
-                                      │
-                                      ▼
-                         📨 ASYNCHRONOUS SYSTEMS
-                                      │
-                              Kafka / BullMQ
-                                      │
-                                      ▼
-                                   WORKERS
-                                      │
-                         ┌────────────┼────────────┐
-                         ▼            ▼            ▼
-                      💳 PAYMENTS   ☁️ STORAGE    🤖 AI
-                      Stripe        Cloudinary    Gemini
-                      PayPal        Supabase      OpenAI
-                                   Nodemailer
-
-🧰 Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,typescript,mongodb,postgres,mysql,redis,docker,kafka,git,github,postman">
-
-</div>
-
-Languages
-
-Java JavaScript TypeScript SQL
-
-Backend
-
-Spring Boot Spring MVC Node.js Express.js
-
-Security
-
-Spring Security JWT Keycloak OAuth2 RBAC OTP
-
-Databases
-
-MySQL PostgreSQL MongoDB Redis
-
-Architecture
-
-REST APIs WebSocket Socket.IO Kafka BullMQ Workers
-JPA Hibernate MapStruct SOLID Design Patterns
-
-Integrations
-
-Stripe PayPal Cloudinary Supabase Nodemailer
-FastAPI Google Gemini OpenAI
-
-Tools
-
-Git GitHub Docker Postman Maven
-
-🚀 Featured Projects
-
-⚡ EventFlow
-
-Event-Driven Backend Platform
-
-A scalable backend platform for projects, events, webhooks, API access,
-background processing, real-time notifications, reporting and AI-powered event simulation.
-
-Stack
-
-Node.js TypeScript Express.js MongoDB
-Redis BullMQ Keycloak Stripe
-Socket.IO Cloudinary Nodemailer Google Gemini Docker
-
-Highlights
-
-🔐 Keycloak authentication
-
-🔑 API key management
-
-💳 Stripe integration
-
-📨 Webhook processing
-
-⚙️ BullMQ background jobs
-
-👷 Worker-based processing
-
-🔴 Redis queues
-
-📡 Socket.IO real-time notifications
-
-📊 PDF / CSV reporting
-
-🤖 Gemini AI integration
-
-📧 Email notifications
-
-☁️ Cloudinary file management
-
-🐳 Docker
-
-<div align="center">
-<a href="https://github.com/amf5/eventflow">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-🤖 Story AI
-
-AI-Powered Animated Story Platform
-
-An AI-powered platform that transforms user-written stories into animated cartoon videos.
-
-Stack
-
-Java Spring Boot Spring Security JWT
-MySQL JPA Hibernate WebFlux FastAPI
-WebSocket Kafka Cloudinary Scheduler AOP
-
-Highlights
-
-🔐 Spring Security + JWT
-
-🗄️ MySQL + JPA + Hibernate
-
-⚡ WebFlux reactive communication
-
-🤖 FastAPI AI integration
-
-🔴 WebSocket real-time updates
-
-📨 Kafka asynchronous processing
-
-☁️ Cloudinary media storage
-
-⏰ Scheduled tasks
-
-📝 Spring AOP logging and monitoring
-
-<div align="center">
-<a href="https://github.com/amf5/storyaiAPP">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-📚 Learning Platform
-
-Online Learning & Payment Platform
-
-A backend platform connecting students, instructors and administrators with
-course management, payments, communication, file storage, background jobs and AI.
-
-Stack
-
-Node.js Express.js PostgreSQL Redis BullMQ
-Stripe PayPal Cloudinary Supabase OpenAI
-
-Highlights
-
-👤 Student / Instructor / Admin roles
-
-📚 Course management
-
-📖 Sections and lessons
-
-📎 PDF and video attachments
-
-💳 Stripe payments
-
-💰 PayPal instructor payouts
-
-💬 Course-related chat
-
-🤖 OpenAI integration
-
-⚙️ BullMQ background jobs
-
-🔴 Redis
-
-☁️ Cloudinary
-
-<div align="center">
-<a href="https://github.com/amf5/platform_learning">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-🎫 Ticket Platform
-
-Event Ticketing & QR Validation System
-
-A backend system for event management, ticket booking, role-based access,
-and QR ticket validation.
-
-Stack
-
-Java Spring Boot PostgreSQL JPA
-Keycloak MapStruct Google ZXing Bean Validation
-
-Highlights
-
-👥 Multiple user roles
-
-🔐 Keycloak authentication
-
-🛡️ OAuth2 / RBAC
-
-🎫 Event management
-
-🎟️ Ticket booking
-
-📱 QR code generation
-
-🔍 QR validation
-
-🔄 MapStruct DTO mapping
-
-✅ Bean Validation
-
-🏗️ Modular backend architecture
-
-<div align="center">
-<a href="https://github.com/amf5/TicketAPP">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-🧠 Engineering Highlights
-
-Area
-
-Technologies
-
-🔐 Security
-
-JWT • Spring Security • Keycloak • OAuth2 • RBAC • OTP
-
-⚡ Performance
-
-Redis • Caching • Pagination • Database Indexing • Async Processing
-
-📨 Distributed Systems
-
-Kafka • BullMQ • Redis • Workers
-
-🔴 Real-Time
-
-WebSocket • Socket.IO
-
-💳 Payments
-
-Stripe • PayPal
-
-🤖 AI
-
-FastAPI • Gemini • OpenAI
-
-☁️ Cloud
-
-Cloudinary • Supabase
-
-🗄️ Databases
-
-MySQL • PostgreSQL • MongoDB
-
-🐳 DevOps
-
-Docker • Git • GitHub
-
-🏗️ Architecture
-
-REST • Layered • Event-Driven
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amf5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amf5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amf5&theme=tokyonight&hide_border=true" width="60%">
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amf5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6">
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amf5&theme=tokyo-night&hide_border=true&area=true" width="95%">
-
-</div>
-
-🐍 Contribution Snake
-
-The snake image requires a GitHub Action to generate output/github-contribution-grid-snake.svg.
-The official snk project provides this workflow. Until it is generated, this section is intentionally not linked to a broken image.
-
-📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/amf5/eventflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=eventflow&theme=tokyonight&hide_border=true" width="49%">
-</a>
-
-<a href="https://github.com/amf5/storyaiAPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=storyaiAPP&theme=tokyonight&hide_border=true" width="49%">
-</a>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, TypeScript, SQL |
+| **Backend Frameworks** | Spring Boot, Spring MVC, Node.js, Express.js |
+| **Security & Auth** | Spring Security, JWT, Keycloak, OAuth2, RBAC, OTP |
+| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Architecture & Messaging**| REST APIs, WebSockets, Socket.IO, Kafka, BullMQ, Microservices Concepts |
+| **Integrations & Cloud** | Stripe, PayPal, Cloudinary, Supabase, Nodemailer, Gemini AI, OpenAI |
+| **Tools & DevOps** | Docker, Git, GitHub, Postman, Maven, JPA, Hibernate, MapStruct |
+
+---
+
+### 🚀 Featured Projects
+
+<details open>
+<summary><b>⚡ EventFlow — Event-Driven Backend Platform</b></summary>
+<br>
+
+A scalable backend platform for projects, events, webhooks, API access, background processing, real-time notifications, reporting, and AI-powered event simulation.
+* **Stack:** Node.js, TypeScript, Express.js, MongoDB, Redis, BullMQ, Keycloak, Stripe, Socket.IO, Cloudinary, Nodemailer, Google Gemini, Docker.
+* **Highlights:** Keycloak auth, API key management, Stripe integration, Webhook processing, BullMQ workers, Redis queues, Socket.IO notifications, PDF/CSV reporting, Gemini AI integration.
+* [📁 View Source Code](https://github.com/amf5/eventflow)
+</details>
 
 <br>
 
-<a href="https://github.com/amf5/platform_learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=platform_learning&theme=tokyonight&hide_border=true" width="49%">
-</a>
+<details>
+<summary><b>🤖 Story AI — AI-Powered Animated Story Platform</b></summary>
+<br>
 
-<a href="https://github.com/amf5/TicketAPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amf5&repo=TicketAPP&theme=tokyonight&hide_border=true" width="49%">
-</a>
+An AI-powered platform that transforms user-written stories into animated cartoon videos using reactive microservices.
+* **Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, JPA, Hibernate, WebFlux, FastAPI, WebSocket, Kafka, Cloudinary, Scheduler, AOP.
+* **Highlights:** Spring Security + JWT, MySQL + JPA, WebFlux reactive communication, FastAPI AI integration, WebSocket updates, Kafka processing, Cloudinary media storage.
+* [📁 View Source Code](https://github.com/amf5/storyaiAPP)
+</details>
 
-</div>
+<br>
 
-⭐ GitHub Overview
+<details>
+<summary><b>📚 Learning Platform — Online Learning & Payment Engine</b></summary>
+<br>
 
-<div align="center">
+A backend platform connecting students, instructors, and administrators with course management, payments, communication, file storage, background jobs, and AI integrations.
+* **Stack:** Node.js, Express.js, PostgreSQL, Redis, BullMQ, Stripe, PayPal, Cloudinary, Supabase, OpenAI API.
+* **Highlights:** Student/Instructor/Admin roles, Course & lesson management, PDF/video attachments, Stripe payments, PayPal payouts, Course chat, OpenAI integration.
+* [📁 View Source Code](https://github.com/amf5/platform_learning)
+</details>
 
-<img src="https://img.shields.io/github/stars/amf5?style=for-the-badge&label=TOTAL%20STARS&color=yellow">
-<img src="https://img.shields.io/github/repos/amf5?style=for-the-badge&label=REPOSITORIES&color=blue">
-<img src="https://komarev.com/ghpvc/?username=amf5&style=for-the-badge&label=PROFILE+VIEWS">
+<br>
 
-</div>
+<details>
+<summary><b>🎫 Ticket Platform — Event Ticketing & QR Validation System</b></summary>
+<br>
 
-🎓 Education
+A backend system for event management, ticket booking, role-based access control, and real-time QR ticket validation.
+* **Stack:** Java, Spring Boot, PostgreSQL, JPA, Keycloak, MapStruct, Google ZXing, Bean Validation.
+* **Highlights:** Multiple user roles, Keycloak authentication, OAuth2 / RBAC, QR code generation and validation, Modular backend architecture.
+* [📁 View Source Code](https://github.com/amf5/TicketAPP)
+</details>
 
-Alexandria University
+---
 
-B.Sc. Computer Science & Statistics
+### 📜 Certifications & Education
 
-📍 Alexandria, Egypt
-📅 2021 — 2025
-🎯 CGPA: 3.25 / 4
+* 🎓 **B.Sc. Computer Science & Statistics** — Alexandria University (2021 — 2025) | CGPA: 3.25 / 4
+* 📜 **Spring Boot 3, Spring 6 & Hibernate for Beginners** — Chad Darby (Udemy)
+* 📜 **Java Programming: Solving Problems with Software** — Duke University (Coursera)
+* 📜 **Frontend Web Development Training** — Information Technology Institute (ITI)
 
-📜 Certifications
+---
 
-🎓 Spring Boot 3, Spring 6 & Hibernate for Beginners
-
-Chad Darby — Udemy
-
-<a href="https://drive.google.com/file/d/1BszNqssg2et3GTB8NhbGds7cU7TvuMPY/view?usp=sharing">📜 View Certificate</a>
-
-☕ Java Programming: Solving Problems with Software
-
-Duke University — Coursera
-
-<a href="https://drive.google.com/file/d/1RWY0PWFa5y-FOmZPvvBx6vnL6jqgZwQ3/view?usp=sharing">📜 View Certificate</a>
-
-🌐 Frontend Web Development Training
-
-Information Technology Institute — ITI
-
-1-Month Training Program
-
-<a href="https://drive.google.com/file/d/1uC0JFvtRBryCWzdtJVBcAzRwnnhNMCPh/view?usp=sharing">📜 View Certificate</a>
-
-📄 Resume
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="https://drive.google.com/file/d/1jpzz4O1KvYxWvbYg_wguiC0W5nszVE92/view?usp=sharing">
-<img src="https://img.shields.io/badge/VIEW%20MY%20CV-Download%20Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white">
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=amf5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amf5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-🌍 Languages
+<br>
 
 <div align="center">
-
-🇪🇬 Arabic — Native
-
-🇬🇧 English — Good Reading & Writing
-
+  <img src="https://komarev.com/ghpvc/?username=amf5&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" />
 </div>
 
-🤝 Let's Connect
+---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ahmed-walid-amin-014b52282/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:ahmedwalidamin648@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/amf5">
-<img src="https://img.shields.io/badge/GitHub-amf5-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<div align="center">
-
-🚀 Building Systems. Solving Problems. Learning Every Day.
-
-⭐ Thanks for visiting my profile!
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50" />
+  <p><b>Building Systems. Solving Problems. Learning Every Day.</b></p>
 </div>
