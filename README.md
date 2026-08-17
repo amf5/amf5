@@ -1,371 +1,90 @@
 <div align="center">
-
-🚀 Ahmed Waleed Amin Amin Khamis
-
-💻 Backend Developer
-
-Spring Boot • Node.js • TypeScript • System Design
-
-<br>
-
-⚡ Building scalable, secure & efficient backend systems
-
-<br>
-
-
-
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=🚀+Ahmed+Waleed+Amin;⚡+Back-End+Developer;🔥+Spring+Boot+%26+Node.js;💡+Clean+Code+Enthusiast" alt="Typing Animation" />
 </div>
 
-🧑‍💻 About Me
+---
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-<h2>🚀 Backend Developer</h2>
-
-<p>
-Building <strong>scalable, secure & high-performance backend systems</strong>
-with modern Java and Node.js technologies.
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>💻 <strong>Role</strong></td>
-<td>Backend Developer</td>
-</tr>
-<tr>
-<td>📍 <strong>Location</strong></td>
-<td>Alexandria, Egypt</td>
-</tr>
-<tr>
-<td>🎓 <strong>Education</strong></td>
-<td>Computer Science & Statistics — Alexandria University</td>
-</tr>
-<tr>
-<td>📅 <strong>Graduation</strong></td>
-<td>2025</td>
-</tr>
-<tr>
-<td>🏆 <strong>CGPA</strong></td>
-<td>3.25 / 4</td>
-</tr>
-<tr>
-<td>⚡ <strong>Backend</strong></td>
-<td>Java • Spring Boot • Node.js • Express.js • NestJS</td>
-</tr>
-<tr>
-<td>🗄️ <strong>Databases</strong></td>
-<td>MySQL • PostgreSQL • MongoDB • Redis</td>
-</tr>
-<tr>
-<td>🏗️ <strong>Architecture</strong></td>
-<td>REST APIs • MVC • SOLID • Design Patterns • Event-Driven</td>
-</tr>
-<tr>
-<td>🧠 <strong>Interests</strong></td>
-<td>Clean Code • System Design • Scalability • Performance</td>
-</tr>
-<tr>
-<td>🚀 <strong>Currently Building</strong></td>
-<td>Scalable Backend Systems</td>
-</tr>
-</table>
-
-<br>
-
-<em>⚡ "One API at a time." ⚡</em>
-
+  <img src="https://komarev.com/ghpvc/?username=AhmedWalidAmin&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhmedWalidAmin?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AhmedWalidAmin?style=social" alt="GitHub Stars" />
 </div>
 
-⚙️ Tech Arsenal
+---
 
-☕ Backend
-
-Technology
-
-Level
-
-Java
-
-⭐⭐⭐⭐⭐
-
-Spring Boot
-
-⭐⭐⭐⭐⭐
-
-Spring Security
-
-⭐⭐⭐⭐
-
-Node.js
-
-⭐⭐⭐⭐⭐
-
-Express.js
-
-⭐⭐⭐⭐⭐
-
-TypeScript
-
-⭐⭐⭐⭐
-
-NestJS
-
-⭐⭐⭐⭐
-
-🗄️ Databases & Storage
-
-MySQL · PostgreSQL · MongoDB · Redis
-
-📨 Messaging & Background Jobs
-
-Apache Kafka · BullMQ · Redis
-
-🔐 Security
-
-JWT · OAuth2 · Keycloak · Spring Security
-
-☁️ Tools & Infrastructure
-
-Docker · Git · GitHub · Maven · Postman · Cloudinary
-
-🏆 Featured Projects
-
-🚀 EventFlow
-
-🔗 View Repository
-
-Event-Driven Backend Platform for Projects, Events & Webhooks
-
-Node.js • Express • TypeScript • MongoDB • Redis
-BullMQ • Keycloak • Stripe • Socket.IO • Gemini AI
-
-✨ Highlights
-
-🔐 Keycloak authentication + JWT
-
-💳 Stripe payment integration
-
-📨 Asynchronous webhook processing with Redis + BullMQ
-
-📡 Real-time communication with Socket.IO
-
-🤖 AI-powered event simulation
-
-📊 PDF / CSV report generation
-
-⚡ Background job processing
-
-🎬 Story AI
-
-🔗 View Repository
-
-AI-Powered Platform for Transforming Text into Animated Videos
-
-Java • Spring Boot • Spring Security • JWT
-MySQL • WebFlux • FastAPI • Kafka • WebSocket • Cloudinary
-
-✨ Highlights
-
-🧠 AI integration through FastAPI
-
-📡 Real-time progress using WebSocket
-
-📨 Asynchronous notifications with Kafka
-
-🔍 AOP-based logging and monitoring
-
-☁️ Cloudinary media storage
-
-⚡ Reactive communication with WebFlux
-
-🎟️ Ticket Platform
-
-🔗 View Repository
-
-Digital Event Ticket Management with QR Validation
-
-Java • Spring Boot • JPA • PostgreSQL
-Keycloak • Google ZXing • MapStruct
-
-✨ Highlights
-
-👥 Organizer / Attendee / Staff roles
-
-📱 QR code generation & validation
-
-🔐 OAuth2 authentication with Keycloak
-
-🏗️ DTO ↔ Entity mapping
-
-🧩 Modular backend architecture
-
-📚 Learning Platform
-
-🔗 View Repository
-
-Complete Educational Platform with Payment Integration
-
-Node.js • Express • PostgreSQL • Stripe
-PayPal • Redis • BullMQ • OpenAI
-
-✨ Highlights
-
-👨‍🏫 Student / Instructor / Admin roles
-
-💳 Stripe & PayPal payments
-
-💬 Real-time course chat
-
-🤖 AI-generated course/video descriptions
-
-📁 Cloudinary & Supabase storage
-
-⚡ Background processing with BullMQ
-
-🧠 Backend Mindset
+## 🌐 Connect With Me
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center">📱<br><strong>Client</strong></td>
-<td>→</td>
-<td align="center">🌐<br><strong>REST API</strong></td>
-<td>→</td>
-<td align="center">🔐<br><strong>Auth</strong></td>
-<td>→</td>
-<td align="center">⚙️<br><strong>Business Logic</strong></td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center">🗄️<br><strong>PostgreSQL</strong></td>
-<td align="center">🍃<br><strong>MongoDB</strong></td>
-<td align="center">⚡<br><strong>Redis</strong></td>
-<td align="center">📨<br><strong>Kafka / BullMQ</strong></td>
-</tr>
-</table>
-
-<br>
-
-Design Principles
-
-Clean Code · SOLID · Design Patterns · Scalability · Performance · Security
-
+  <a href="https://www.linkedin.com/in/ahmed-khamis-01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://www.facebook.com/ahmed.walid.amin.2025/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://x.com/Ahmedwalid36271">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://wa.me/201116674695">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://portofolio-zp2d.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://young-leaf-d39a.ahmedwalidamin648.workers.dev/">
+    <img src="https://img.shields.io/badge/Certificates-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white&logoWidth=30" />
+  </a>
 </div>
 
-📊 GitHub Analytics
+---
 
+## 👨‍💻 About Me
+
+```diff
++ 🎓 Fresh Graduate | Computer Science & Statistics @ Alexandria University
++ 📊 CGPA: 3.25/4
++ 💻 Back-End Developer | Spring Boot • Node.js • Express
++ 🧠 Passionate about Clean Code • SOLID Principles • Design Patterns
++ 📍 Alexandria, Egypt
++ 📧 ahmedwalidamin648@gmail.com
++ 📱 +20 1116674695
+🛠️ Tech Stack
 <div align="center">
+🚀 Languages & Frameworks
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 
-🔥 Code. Build. Learn. Repeat.
+🗄️ Databases
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 
-Backend Development       ████████████████████  100%
-System Design             ███████████████░░░░░   75%
-Distributed Systems       ████████████░░░░░░░░   60%
-Cloud & DevOps            ██████████░░░░░░░░░░   50%
-
-</div>
-
-🎓 Education
-
-🎓 Bachelor of Computer Science and Statistics
-
-Alexandria University
-
-📅 Oct 2021 – Jun 2025
-
-📍 Alexandria, Egypt
-
-🏆 CGPA: 3.25 / 4
-
-📄 View CV
-
-📜 Certifications
-
-Certification
-
-Provider
-
-Certificate
-
-☕ Java / Backend Development
-
-Chad Darby — Udemy
-
-View Certificate
-
-💻 Computer Science
-
-Duke University — Coursera
-
-View Certificate
-
-🧑‍💻 Information Technology Training
-
-Information Technology Institute
-
-View Certificate
-
-🌐 Portfolio
-
-<div align="center">
-
-🚧 Portfolio Website — Coming Soon
-
-<p>
-<strong>🔗 Portfolio link will be added here when the website is ready.</strong>
-</p>
-
-<br>
-
-<code>YOUR_PORTFOLIO_LINK_HERE</code>
+⚙️ Tools & Platforms
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
 </div>
+📁 Featured Projects
+Project	Tech Stack	Highlights
+🛒 Multi Vendor E-commerce	Spring Boot, MySQL, JPA	JWT Auth, Admin Dashboard, Product/Cart/Orders APIs
+🎓 Learning Platform	Express, PostgreSQL, Stripe, PayPal	Paid/Free Courses, Real-time Chat, AI Video Desc
+🎟️ Ticket Platform	Spring Boot, PostgreSQL, Keycloak	QR Code Validation, Role-Based Access, MapStruct
+🤖 Story AI	Spring Boot, FastAPI, WebSocket, Kafka	AI Story → Cartoon Video, Real-time Progress
+⚡ EventFlow	Node.js, TypeScript, MongoDB, BullMQ	Webhooks, Stripe, Socket.IO, AI Simulation
 
-📫 Let's Connect
+🏆 Certificates
+📜 View All Certificates
 
-<div align="center">
+🌍 Languages
+Arabic – Native 🇪🇬
 
-⚡ "Building the future, one API at a time." ⚡
+English – Good (Reading & Writing) 🇬🇧
 
-<br>
-
-Ahmed Waleed Amin Amin Khamis
-
-💻 Backend Developer
-📍 Alexandria, Egypt
-
-
-
-
-<br>
-
-
-
-</div>
-
-<div align="center">
-
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       🚀 BUILD  •  LEARN  •  SCALE  •  REPEAT 🚀    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-
-⭐ Thanks for visiting my profile!
-
-</div>
+📬 Contact Me
+<div align="center"> <a href="mailto:ahmedwalidamin648@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ahmed-khamis-01"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://wa.me/201116674695"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=⚡+Always+Learning+%26+Building;🔥+Open+to+Collaboration;🚀+Let's+Build+Something+Amazing!" alt="Footer Animation" /> </div>
